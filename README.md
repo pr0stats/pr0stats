@@ -1,5 +1,5 @@
-pr0stats - forward repository for pr0stats.github.io
-====================================================
+pr0stats - forward repository for [pr0stats.github.io](http://pr0stats.github.io)
+========
 
 This is the former project gh-pages repository of pr0stats (which was accessable via http://pr0stats.github.io/pr0stats).
 We moved the repository to pr0stats/pr0stats.github.io in order to make the project available at http://pr0stats.github.io.
